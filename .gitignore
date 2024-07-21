@@ -128,3 +128,6 @@ bower_components/
 
 # NPM token
 .npmrc
+
+# million package
+.million
